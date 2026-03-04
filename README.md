@@ -1,2 +1,2 @@
-# credit-analytics-pipeline
-Bronze to silver to gold BI pipeline with snapshot automation and data quality gates
+# credit-ar-analytics-blueprint
+Documentation-first BI system blueprint: Databricks SQL transformations + Power BI semantic model + data-quality gates for AR aging and exposure reporting.
