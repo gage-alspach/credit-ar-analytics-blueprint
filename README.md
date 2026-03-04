@@ -105,6 +105,21 @@ This project demonstrates several BI and analytics engineering capabilities:
 
 ---
 
+## Design decisions
+
+Several design choices were made to improve reliability and maintainability.
+
+• Credit aging uses credit age rather than allocating credits to invoices.  
+This simplifies reconciliation and avoids unstable allocation logic.
+
+• Parent-level credit reporting is separated from customer-level AR analysis.  
+This allows credit risk context to be evaluated independently of operational entities.
+
+• Operational exposure signals are treated as directional indicators rather than accounting totals.  
+Shipment exposure is intended to highlight potential risk rather than reconcile exactly with AR balances.
+
+---
+
 ## Data contracts
 
 Each curated dataset in this architecture follows a defined data contract to ensure stability for downstream reporting and analytics.
