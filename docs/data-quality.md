@@ -20,9 +20,7 @@
 ### Parent mapping
 - Parents[CustomerNo] uniqueness
 - ParentName standardization checks (trim, casing)
-- Join success rate thresholds (tracker and agency mapping)
 
 ## 3. Monitoring approach
 - Scheduled refresh checks
-- Trend checks for row counts and join rates
 - Alerting strategy (manual or automated)
