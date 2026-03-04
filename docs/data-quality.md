@@ -19,6 +19,7 @@
 
 ### Parent mapping
 - Parents[CustomerNo] uniqueness
+- In the process of implementing Parents[Parent ID] as the primary key
 - ParentName standardization checks (trim, casing)
 
 ## 3. Monitoring approach
