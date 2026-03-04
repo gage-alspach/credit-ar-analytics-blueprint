@@ -22,7 +22,8 @@ This repository is documentation-first and focuses on how the system is designed
 ---
 
 ## Architecture
-![Architecture Diagram](assets/cred_ar_architecture.png)
+![Architecture Diagram](assets/credit_ar_architecture.png)
+
 High-level flow:
 
 1. **Source systems**
