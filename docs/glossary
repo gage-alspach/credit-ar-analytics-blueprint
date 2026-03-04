@@ -1,0 +1,7 @@
+# Glossary
+
+- AR: Accounts receivable
+- Aging buckets: Time-based grouping of open balances (Current, 1-30, etc.)
+- Exposure: Operational risk signals (shipment risk, unbilled risk)
+- Parent mapping: Customer to parent rollup strategy
+- Semantic model: Governed dataset layer for Power BI reporting
